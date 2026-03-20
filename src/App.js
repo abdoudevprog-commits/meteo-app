@@ -34,6 +34,7 @@ function App() {
       vent: Math.round(cur.wind_speed_10m),
       condition: "Ensoleillé",
     });
+    
   }
 
   return (
